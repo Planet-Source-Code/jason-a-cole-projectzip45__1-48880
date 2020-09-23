@@ -1,0 +1,9 @@
+This sample provides a look into the structure of Zip Files.
+
+It will allow you a look at some of the information stored in them, and
+later I will be updating it with decompression algorithms and
+extraction routines.
+
+Take a look, learn something, and have fun !!
+	
+						JaseCole
